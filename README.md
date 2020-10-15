@@ -1,3 +1,5 @@
 # RICE-COMP-682-Algorithms
 
-week 1: Intro/Big O 
+Week 1: Intro/Big O 
+
+Week 2: Union Find
