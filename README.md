@@ -3,7 +3,7 @@
 Week 1: Intro, Big O   
 PS1: 100/100
 
-Week 2: Union Find
+Week 2: Union Find   
 PS2: 85/100
 
 Week 3: Selection, Insertion, Shell Sorts
