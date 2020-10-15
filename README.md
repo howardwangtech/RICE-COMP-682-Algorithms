@@ -9,3 +9,7 @@ Week 3: Selection, Insertion, Shell Sorts
 Week 4: Recurrences, Master Theorem
 
 Week 5: Divide and Conquer Sorts, Mergesort, Quicksort
+
+Week 6: Quickselect, Linear Time Shuffling
+
+Week 7: Priority Queues (heaps)
