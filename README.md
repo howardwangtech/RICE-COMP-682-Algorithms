@@ -1,4 +1,4 @@
-# RICE-COMP-682-Algorithms
+# RICE COMP 682 Algorithms
 
 <b>Week 1: Intro, Big O</b>   
 PS1: 100/100
